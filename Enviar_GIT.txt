@@ -1,2 +1,3 @@
-Arquivo de teste p/ GIT versão 2
+Arquivo de teste p/ GIT versão 3
 Alteração no arquivo REMOTAMENTE
+Alteração no arquivo LOCALMENTE
