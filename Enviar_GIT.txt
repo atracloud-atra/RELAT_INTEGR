@@ -1,1 +1,2 @@
-Arquivo de teste p/ GIT versão 1
+Arquivo de teste p/ GIT versão 2
+Alteração no arquivo REMOTAMENTE
