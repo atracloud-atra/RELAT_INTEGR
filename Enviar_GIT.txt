@@ -1,4 +1,4 @@
 Arquivo de teste p/ GIT versão 4
 Alteração no arquivo REMOTAMENTE
 Alteração no arquivo LOCALMENTE
-Alteraçao SSH
+Alteraçao SSH denovo
