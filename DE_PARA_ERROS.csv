@@ -1,0 +1,36 @@
+"Integracao","Objeto","Categoria","Chave","Mensagem"
+"TASY_SFDC","SOLICITACAO","CRM_UF inexistente no SFDC","Contact.CRM_UF__c","not found for field CRM_UF__c in entity Contact"
+"TASY_SFDC","SOLICITACAO","Atendimento inexistente no SFDC","Numero_Atendimento__r.HealthCloudGA__SourceSystemId__c","not found for field HealthCloudGA__SourceSystemId__c in entity HealthCloudGA__EhrEncounter__c"
+"TASY_SFDC","SOLICITACAO","FIELD_FILTER_VALIDATION_EXCEPTION no SFDC","Error Message","Esse erro ocorreu quando o fluxo tentou atualizar registros: FIELD_FILTER_VALIDATION_EXCEPTION"
+"TASY_SFDC","SOLICITACAO","DUPLICATE_VALUE no SFDC","Error Message","Esse erro ocorreu quando o fluxo tentou atualizar registros: DUPLICATE_VALUE"
+"TASY_SFDC","SOLICITACAO","Paciente Inexistente no SFDC","Account.HealthCloudGA__SourceSystemId__c","Campos [AccountId]. Código de status [FIELD_FILTER_VALIDATION_EXCEPTION]"
+"TASY_SFDC","SOLICITACAO","Equipe Inexitente no SFDC","Local_solicitacao_EMR__r.HealthCloudGA__SourceSystemId__c","o processo ""Atribuir Equipe de Caso"" falhou"
+"TASY_SFDC","SOLICITACAO","Unidade Inexitente no SFDC","Local_solicitacao_EMR__r.HealthCloudGA__SourceSystemId__c","not found for field HealthCloudGA__SourceSystemId__c in entity Account"
+"TASY_SFDC","SOLICITACAO","Campos obrigatórios no SFDC","Error Message","Mensagem [Os seguintes campos obrigatórios podem não estar preenchidos:"
+"TASY_SFDC","SOLICITACAO","[Não Identificado]","Error Message",
+"TASY_SFDC","ENCAMINHAMENTO","CRM_UF inexistente no SFDC","Contact.CRM_UF__c","not found for field CRM_UF__c in entity Contact"
+"TASY_SFDC","ENCAMINHAMENTO","Atendimento inexistente no SFDC","Numero_Atendimento__r.HealthCloudGA__SourceSystemId__c","not found for field HealthCloudGA__SourceSystemId__c in entity HealthCloudGA__EhrEncounter__c"
+"TASY_SFDC","ENCAMINHAMENTO","FIELD_FILTER_VALIDATION_EXCEPTION no SFDC","Error Message","Esse erro ocorreu quando o fluxo tentou atualizar registros: FIELD_FILTER_VALIDATION_EXCEPTION"
+"TASY_SFDC","ENCAMINHAMENTO","DUPLICATE_VALUE no SFDC","Error Message","Esse erro ocorreu quando o fluxo tentou atualizar registros: DUPLICATE_VALUE"
+"TASY_SFDC","ENCAMINHAMENTO","Paciente Inexistente no SFDC","Account.HealthCloudGA__SourceSystemId__c","Campos [AccountId]. Código de status [FIELD_FILTER_VALIDATION_EXCEPTION]"
+"TASY_SFDC","ENCAMINHAMENTO","Equipe Inexitente no SFDC","Local_solicitacao_EMR__r.HealthCloudGA__SourceSystemId__c","o processo ""Atribuir Equipe de Caso"" falhou"
+"TASY_SFDC","ENCAMINHAMENTO","Unidade Inexitente no SFDC","Local_solicitacao_EMR__r.HealthCloudGA__SourceSystemId__c","not found for field HealthCloudGA__SourceSystemId__c in entity Account"
+"TASY_SFDC","ENCAMINHAMENTO","Campos obrigatórios no SFDC","Error Message","Mensagem [Os seguintes campos obrigatórios podem não estar preenchidos:"
+"TASY_SFDC","ENCAMINHAMENTO","[Não Identificado]","Error Message",
+"TASY_SFDC","PACIENTE","Paciente Inexistente","HealthCloudGA__SourceSystemId__c","Mensagem [HealthCloudGA__SourceSystemId__c not specified"
+"TASY_SFDC","PACIENTE","[Não Identificado]","Error Message",
+"DW_SFDC","PACIENTE","Paciente sem Origem__c rejeitado no SFDC","HealthCloudGA__SourceSystemId__c","Campos [Origem__c]. Código de status [FIELD_FILTER_VALIDATION_EXCEPTION]"
+"DW_SFDC","PACIENTE","Email rejeitado no SFDC","PersonEmail","Mensagem [Email: endereço de email inválido:"
+"DW_SFDC","PACIENTE","Data Nascimento rejeitada no SFDC","PersonBirthdate","Mensagem [Data de nascimento: data inválida:"
+"DW_SFDC","PACIENTE","[Não Identificado]","Error Message",
+"DW_SFDC","CONVENIO","[Não Identificado]","Error Message",
+"DW_SFDC","PLANO_CONVENIO","Convênio Inexistente no SFDC","Id_do_Convenio__r.HealthCloudGA__SourceSystemId__c","not found for field HealthCloudGA__SourceSystemId__c in entity Account"
+"DW_SFDC","PLANO_CONVENIO","[Não Identificado]","Error Message",
+"DW_SFDC","CORPO_CLINICO","[Não Identificado]","Error Message",
+"DW_SFDC","MEDICO_REFERENCIADOR","[Não Identificado]","Error Message",
+"DW_SFDC","UNIDADE","Chave Duplicada na Origem","HealthCloudGA__SourceSystemId__c","Campos [HealthCloudGA__SourceSystemId__c]. Código de status [DUPLICATE_VALUE]"
+"DW_SFDC","UNIDADE","[Não Identificado]","Error Message",
+"DW_SFDC","CONSULTA","Chave Duplicada na Origem","HealthCloudGA__SourceSystemId__c","Campos [HealthCloudGA__SourceSystemId__c]. Código de status [DUPLICATE_VALUE]"
+"DW_SFDC","CONSULTA","Paciente inexistente no SFDC","HealthCloudGA__Account__r.HealthCloudGA__SourceSystemId__c","not found for field HealthCloudGA__SourceSystemId__c in entity Account"
+"DW_SFDC","CONSULTA","[Não Identificado]","Error Message",
+
