@@ -1,4 +1,7 @@
 Data,Objeto,Lidos Origem,Enviados SFDC,Sucesso,Rejeitados
+2022-09-06 09:04:00,Paciente,0,0,0,0
+2022-09-06 09:04:00,Encaminhamento,0,0,0,0
+2022-09-06 09:04:00,Solicitacao,1342,307,0,307
 2022-09-05 09:03:00,Paciente,0,0,0,0
 2022-09-05 09:03:00,Encaminhamento,0,0,0,0
 2022-09-05 09:03:00,Solicitacao,1306,250,0,250
